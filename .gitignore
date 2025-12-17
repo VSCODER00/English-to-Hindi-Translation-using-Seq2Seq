@@ -1,0 +1,6 @@
+.vscode/
+
+*.csv
+*.h5
+eng_hi_seq2seq.h5
+hindi_english_parallel.csv
