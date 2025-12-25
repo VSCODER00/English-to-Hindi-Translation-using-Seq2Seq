@@ -17,7 +17,7 @@ The project is designed to deeply understand:
 - ✅ Teacher forcing during training
 - ✅ Custom step-by-step inference pipeline
 - ✅ Streamlit UI comparing both models
-- ✅ Docker + Hugging Face deployment ready
+
 
 ---
 
@@ -173,9 +173,9 @@ The Streamlit app allows:
 
 ## 📦 Deployment
 
-- Dockerized Streamlit app
+
 - Hugging Face Spaces compatible
-- CPU-only (no GPU required)
+
 
 ---
 
@@ -189,5 +189,29 @@ The Streamlit app allows:
 
 ---
 
-## 📁 Project Structure
+---
+
+## 🔮 Future Improvements
+
+- 🔹 Beam search decoding
+- 🔹 BLEU score evaluation
+- 🔹 Attention weight visualization
+- 🔹 Transformer-based baseline
+- 🔹 Model size optimization
+
+---
+
+## ⭐ Acknowledgements
+
+- **IIT Bombay English–Hindi Parallel Corpus**
+- TensorFlow & Keras teams
+
+---
+
+## 🧑‍💻 Author
+
+Built with a strong focus on **fundamentals, interpretability, and end-to-end ML system design**.
+
+If you find this project useful, consider giving it a ⭐ on GitHub!
+
 
